@@ -8,17 +8,24 @@ import java.util.Random;
 public class FactBook {
     //Member variable {properties about the object}
     public String[] mFacts = {
-            "Ants stretch when they wake up in the morning.",
-            "Ostriches can run faster than horses.",
-            "Olympic gold medals are actually made mostly of silver.",
-            "You are born with 300 bones; by the time you are an adult you will have 206.",
-            "It takes about 8 minutes for light from the Sun to reach Earth.",
-            "Some bamboo plants can grow almost a meter in just one day.",
-            "The state of Florida is bigger than England.",
-            "Some penguins can leap 2-3 meters out of the water.",
-            "On average, it takes 66 days to form a new habit.",
-            "Mammoths still walked the earth when the Great Pyramid was being built.",
-            "Rise your Standards"};
+            "Stop wasting valuable time, become creative, hold on and endure, face defeat again and again.",
+            "Practice, work, develop what has been given to you, never give up on your dream!",
+            "Change your mind!, step into your fears, push on..., .",
+            "Invest in you, every day, Boom, make it happen.",
+            "No one can guarantee you can not have your dream!.",
+            "Keep on keep it on, never give up, you got talents you have not reached yet!.",
+            "Live your life with passion, live your dream, go for what is yours in the Universe!.",
+            "Stay focus, challenge yourself, make your dream happen!.",
+            "Look into the future, focus on where you want to go!.",
+            "Work in your dream, develop yourself, take full responsibility for your life!.",
+            "Rise your Standards, be fully determined to go for it, I deserve this",
+            "Everyday, here I come again, nothing is going to stop me...",
+            "Know exactly what you want, do not stop until you find it.",
+            "Sell yourself everyday, believe in you, encourage yourself",
+            "There is greatness in you, overcoming negative habits.",
+            "Discover what you are capable to do, develop the courage, you have to be relentless!",
+            "Fear is not real, the only place it can exist is in our thoughts of the future",
+            "What matters most is what happens in the end, they can make you better or bitter"};
 
 
 

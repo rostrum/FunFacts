@@ -11,7 +11,7 @@
     android:id="@+id/viewBackground">
 
     <TextView
-        android:text="Did you know?"
+        android:text="Remain yourself:"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="24sp"
@@ -20,7 +20,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ants stretch when they wake up in the morning."
+        android:text="Rise your standards, face your fears and press on..."
         android:id="@+id/factText"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
@@ -31,7 +31,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Show Another Fun Fact"
+        android:text="Life is challanging."
         android:id="@+id/showFactButton"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
